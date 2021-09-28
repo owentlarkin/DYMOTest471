@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYMOTest471", "DYMOTest471\DYMOTest471.csproj", "{1AD40EF9-2819-4900-9097-E782FD5C3D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD40EF9-2819-4900-9097-E782FD5C3D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD40EF9-2819-4900-9097-E782FD5C3D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD40EF9-2819-4900-9097-E782FD5C3D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD40EF9-2819-4900-9097-E782FD5C3D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC976C4-58F7-45F3-990C-E69E45360781}
+	EndGlobalSection
+EndGlobal
